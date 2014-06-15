@@ -1,0 +1,426 @@
+h1.uppercase{
+
+}
+div.about{
+  position: absolute;
+  top: 20px;
+  left: 1160px;
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+  text-transform: uppercase;
+  color: black;
+  font-size: 15px;
+}
+div#wholebio{
+  position: relative;
+  right:10px;
+  bottom: 20px;
+}
+
+div.bio{
+  position: relative;
+  width: 350px;
+  hight: 200px;
+  top: 220px;
+  left: 105px;
+  word-wrap: break-word;
+  line-height: 2;
+  margin: 0px;
+}
+
+img.mag{
+  position: absolute;
+  top: 19px;
+  left: 1305px;
+  height: 20px;
+  width: 20px;
+  -webkit-transform: scaleX(-1);
+}
+span#sidebarheading{
+  position: relative;
+  top: 200px;
+  left:150px;
+  font-size: 20px;
+  color: #472d61;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+img#ire{
+  position: relative;
+  height: 250px;
+  top: 100px;
+  left: 90px;
+}
+span#ad{
+  position:relative;
+  top: 120px;
+  right:120px;
+  font-style: italic;
+}
+
+img.logo{
+  position: absolute;
+  top: 3px;
+  right: 1300px;
+  height: 50px;
+  width: 50px;
+}
+div.logotext{
+  position: absolute;
+  top: 20px;
+  right: 1100px;
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+  text-transform: uppercase;
+  color: black;
+  font-size: 15px;
+}
+div#logoandtext{
+  position: relative;
+  z-index: 1;
+  bottom: 370px;
+}
+
+div.search{
+  position: absolute;
+  top: 20px;
+  left: 1250px;
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+  text-transform: uppercase;
+  color: black;
+  font-size: 15px;
+}
+div.bloghead{
+  position: relative;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #472d61;
+  font-size: 50px;
+  text-transform: uppercase;
+  bottom: 10px;
+  right: -100px;
+  line-height: 50px;
+  font-weight: 500;
+}
+img.annie{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+div.underheadline{
+  position: relative;
+  bottom: 5px;
+  left: 105px;
+}
+body{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+span#twitter{
+  position:relative;
+  top:50px;
+  right: 30px;
+}
+span#fb{
+  position:relative;
+  top:50px;
+  right:15px;
+}
+span#sm{
+  position:relative;
+  bottom: 5px;
+  right: 15px;
+  color: #1e72b8;
+}
+span#insta{
+  position:relative;
+  top:50px;
+}
+div.rightsidebar{
+  position: relative;
+  float: right;
+  width: 515px;
+  bottom: 260px;
+}
+img.anniesidebar{
+  position: relative;
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  left: 200px;
+}
+span.quote{
+  position: relative;
+  font-size: 20;
+  width: 400px;
+  font-style: italic;
+  padding: 0.5em;
+  left: 75px;
+}
+span.author{
+  position: relative;
+  font-size: 20;
+  width: 400px;
+  font-style: italic;
+  padding: 0.5em;
+  top: 25px;
+  left: 200px;
+}
+div.wholequote{
+  position: relative;
+  color: grey;
+  bottom:80px;
+  padding: 3em;
+  width:500px;
+}
+img#comments{
+  position:relative;
+  top: 1080px;
+  height:30px;
+  left: 90px;
+  padding: 1em;
+  border-radius: 20px;
+
+}
+img#sharepost{
+  position:relative;
+  top: 1080px;
+  height:30px;
+  left: 110px;
+  padding: 1em;
+  border-radius: 20px;
+}
+div#shares{
+  position:relative;
+  border-radius: 30%;
+  bottom: 10px;
+}
+img#readlater{
+  position:relative;
+  top: 1080px;
+  height:30px;
+  left: 100px;
+  padding: 1em;
+  border-radius: 20px;
+}
+div#blogtitlehead{
+  position: relative;
+  right: 60px;
+  margin: 50px;
+}
+span#socialannie{
+  position: relative;
+  color:#472d61;
+  top:20px;
+  left: 110px;
+  font-size: 18;
+}
+span#dol{
+  color:#472d61;
+  font-size: 17px;
+}
+span#linetext{
+  position: relative;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  bottom:15px;
+  left: 6px;
+}
+span#phin{
+  position: relative;
+  color: #494748;
+  font-size:12px;
+  left: 3px;
+}
+div.toptext{
+  position: relative;
+  width: 675px;
+  left: 100px;
+  bottom: 70px;
+  line-height: 2;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0
+}
+div.mostpop{
+  position:relative;
+  font-size: 60px;
+  line-height: 2;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  color: #472d61;
+  text-align: center;
+  font-weight: bold;
+  top: 50px;
+  margin: 0;
+}
+img#beach{
+  position: relative;
+  height:270px;
+  width:363px;
+  float: left;
+  -webkit-filter: opacity(60%);
+
+}
+img#surf{
+  position: relative;
+  height: 270px;
+  width: 362px;
+  right:170px;
+  -webkit-filter: opacity(60%);
+
+}
+img#fish{
+  position: relative;
+  height:270px;
+  width: 362px;
+  right:187px;
+  -webkit-filter: opacity(60%);
+
+}
+img#kayak{
+  position: relative;
+  height:270px;
+  width: 363px;
+  left:6px;
+  -webkit-filter: opacity(60%);
+  float: right;
+  bottom:307px;
+}
+#copy{
+  position: relative;
+}
+
+
+span#annietalk{
+  position:relative;
+  width: 130px;
+  text-align: center;
+  font-size: 35px;
+  float: left;
+  left: 100px;
+  bottom: 275px;
+  line-height: 1.5;
+}
+span#navs{
+  position:relative;
+  right: 100px;
+}
+span#bestbeaches{
+  position: relative;
+  width: 130px;
+  font-size: 35px;
+  right:50px;
+  word-wrap:break-word;
+  bottom: 220px;
+  line-height: 1.5;
+}
+span#paddle{
+  position:relative;
+width: 130px;
+font-size: 35px;
+float: left;
+left: 690px;
+bottom: 320px;
+line-height: 1.5;
+}
+span#snorkel{
+position:relative;
+width: 130px;
+text-align: center;
+font-size: 35px;
+float: right;
+left: 250px;
+bottom: 300px;
+line-height: 1.5;
+
+}
+body{
+  margin: 0;
+}
+div.wordup{
+  postion: relative;
+  : 50px;
+}
+#footerbar{
+  position: relative;
+  bottom: 92px;
+  height: 200px;
+  width: 1450px;
+  background: #191534;
+}
+#ironyard{
+  position: relative;
+  height:100px;
+  bottom: 245px;
+  float: bottom;
+  z-index: 1;
+}
+#copyright{
+  position: relative;
+  font-size: 15px;
+  bottom: 285px;
+  color: #51455f;
+}
+#nav{
+  position: relative;
+  float: right;
+  bottom: 195px;
+  color: #51455f;
+}
+#nav2{
+  position: relative;
+  float: right;
+  left: 10px;
+  bottom: 195px;
+  color: #51455f;
+}
+#nav3{
+  position: relative;
+  float: right;
+  left: 20px;
+  bottom: 195px;
+  color: #51455f;
+}
+#nav4{
+  position: relative;
+  float: right;
+  bottom: 195px;
+  color: #51455f;
+  left: 30px;
+}
+#navitems{
+  position: relative;
+  bottom: 105px;
+  right: 150px;
+}
+
+#copy{
+  position: relative;
+  left: 100px;
+}
+
+
+div.surf{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+  color: white;
+  font-weight: lighter;
+  letter-spacing: 3px;
+  font-size: 80px;
+  position: absolute;
+  right: 300px;
+  z-index: 1;
+  top: 140px;
+}
+
+div.iyheader{
+  position: relative;
+  text-align: center;
+  top:-110px;
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+  font-weight: lighter;
+  color: white;
+}
+
+img.headerpic{
+  height: 350px;
+  width: 1450px;
+  -webkit-filter: blur(2px);
+  letter-spacing: 1px;
+}

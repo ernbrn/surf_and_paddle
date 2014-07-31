@@ -6,9 +6,10 @@ Our class got a crash course in CSS and HTML and then were asked to re-create a 
 
 ===Check It Out
 
-1) To get the original sheet we were working off of, dowload the surf_and_paddle pdf
 
-2) To get my (non responsive) copy do the following:
+1) To get my (non responsive) copy do the following:
+
+2) If you'd like to compare, you can get the sheet we were modeling it after by downloading surf_and_paddle.pdf
 
 3) Download zip file to get all the images
 

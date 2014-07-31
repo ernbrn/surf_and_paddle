@@ -9,7 +9,7 @@ Our class got a crash course in CSS and HTML and then were asked to re-create a 
 
 1) To get my (non responsive) copy do the following:
 
-2) If you'd like to compare, you can get the sheet we were modeling it after by downloading surf_and_paddle.pdf
+2) If you'd like to compare, you can get the sheet we were modeling off of by downloading surf_and_paddle.pdf
 
 3) Download zip file to get all the images
 
